@@ -1,4 +1,4 @@
-#Geoencoding Non-Tuberculosis Mycobacterium isolates in Bronchiectasis patients
+# Geoencoding Non-Tuberculosis Mycobacterium isolates in Bronchiectasis patients
 
 In this Jupyter Notebook project I used the Python programming langauge, Google Maps API, and Bokeh JS to create an interactive desplace of Non-Tuberculosis Mycobacterium isolates.
 
